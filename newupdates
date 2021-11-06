@@ -1,7 +1,10 @@
-- Added new loading screen
-- removed some unused scripts
-- connected steam to paradox
-- connected paradox to github
-- added stancer
-- reconfigured mechshop
-- changing natives
+- Added new garage locations
+- Added gun body holster
+- Added Christmas map to PG
+- Fixed Poker System
+- Recoded Steam64 API System
+- Added connection queue
+- Paradox will limit at 64 players
+- Updated artifacts
+- Updated a lot of scripts
+- Changed some loops by optimizing the scripts
