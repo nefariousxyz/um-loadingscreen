@@ -1,10 +1,7 @@
-- Added new garage locations
-- Added gun body holster
-- Added Christmas map to PG
-- Fixed Poker System
-- Recoded Steam64 API System
-- Added connection queue
-- Paradox will limit at 64 players
-- Updated artifacts
-- Updated a lot of scripts
-- Changed some loops by optimizing the scripts
+- Updated to Artifact 4947
+- Added New Global Marketplace
+- Added New Drug System (currently under testing)
+- Reconfigured some functions
+- Optimized some scripts
+- Added new zones
+- Added new vehicles
