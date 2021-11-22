@@ -1,7 +1,6 @@
-- Updated to Artifact 4947
-- Added New Global Marketplace
-- Added New Drug System (currently under testing)
-- Reconfigured some functions
-- Optimized some scripts
-- Added new zones
-- Added new vehicles
+- Updated Garage System
+- Updated Playerhud System
+- Updated Carhud System
+- Added /givekey function to players
+- Recoded some functions on Paradox Base
+- Recoded Mechanic Shop System
