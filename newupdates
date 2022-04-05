@@ -1,6 +1,14 @@
+- Adjusted police level alert on House Robbery
+- Lowered the price of Over Speeding Ticket
+- Added Fuel Siphon to Illegal Crafting where you can steal a fuel from another car and put it to your vehicle
+- Added new bone indexes for using jerry can for car fueling (test)
+- Adjusted PetrolCanRefuelRate to 0.10 instead of 0.50 temporarily since the jerry can is still exploitable.
+- Adjusted Jerry Can Cost to $200
+- Added new trigger to remove petrolcan from your inventory after using it.
+- Added Weapon Blueprint loots for robberies
+- Added new rewards to Treasure Chest 
+- Fixed gauze become water on Treasure Chest
+- Police will have the ability to Impound a vehicle and set a price to Depot (Impounding) by using this command: /depot [price]
+- Updated: Vehicles that are not impounded by police will not pay for Depot (Impounding). It is set to $0
 - Updated Garage System
-- Updated Playerhud System
-- Updated Carhud System
-- Added /givekey function to players
-- Recoded some functions on Paradox Base
-- Recoded Mechanic Shop System
+- Added FPS Booster /fps (Functional but it is still under observation)
