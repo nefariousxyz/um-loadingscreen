@@ -1,14 +1,24 @@
-- Adjusted police level alert on House Robbery
-- Lowered the price of Over Speeding Ticket
-- Added Fuel Siphon to Illegal Crafting where you can steal a fuel from another car and put it to your vehicle
-- Added new bone indexes for using jerry can for car fueling (test)
-- Adjusted PetrolCanRefuelRate to 0.10 instead of 0.50 temporarily since the jerry can is still exploitable.
-- Adjusted Jerry Can Cost to $200
-- Added new trigger to remove petrolcan from your inventory after using it.
-- Added Weapon Blueprint loots for robberies
-- Added new rewards to Treasure Chest 
-- Fixed gauze become water on Treasure Chest
-- Police will have the ability to Impound a vehicle and set a price to Depot (Impounding) by using this command: /depot [price]
-- Updated: Vehicles that are not impounded by police will not pay for Depot (Impounding). It is set to $0
-- Updated Garage System
-- Added FPS Booster /fps (Functional but it is still under observation)
+- Fixed Chatbox displaying ooc texts
+- Removed Police Counts on Phone.
+- Fixed butcher job item (item does not exist) error.
+- Removed (Toggle Rear Door) function from eye interaction
+- Added new interactions for EMS (For advanced roleplaying)
+     • Death Cause/Check Pulse
+     • Medical Bag (Suture Kit, Tweezers, Burn Cream, Sedatitve)
+     • Stretcher
+     • Defibrillator
+     • Body Bags
+     • Nancy Check In (When EMS are Busy, people can check in at Nancy who will transport you to a bed for treatment.)
+     • Grandma/Illegal Revive
+     • Wheelchair
+- Boiling Broke Prison is now fixed and on advanced feature.
+     • Legal Jobs (Janitor, Electrician, Janitor, Cook, Garbageman)
+     • Kitchen 
+     • Illegal Stuffzzz
+     • Drugs (Mud)
+     • Cell Police
+     • Recreational Activities
+- Added Garbage Job
+- Added Cow Job
+- New Check in System using Eye Interaction
+- Call for Help: /callems /callpolice /callbennys /callhayes
