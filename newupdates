@@ -1,24 +1,5 @@
-- Fixed Chatbox displaying ooc texts
-- Removed Police Counts on Phone.
-- Fixed butcher job item (item does not exist) error.
-- Removed (Toggle Rear Door) function from eye interaction
-- Added new interactions for EMS (For advanced roleplaying)
-     • Death Cause/Check Pulse
-     • Medical Bag (Suture Kit, Tweezers, Burn Cream, Sedatitve)
-     • Stretcher
-     • Defibrillator
-     • Body Bags
-     • Nancy Check In (When EMS are Busy, people can check in at Nancy who will transport you to a bed for treatment.)
-     • Grandma/Illegal Revive
-     • Wheelchair
-- Boiling Broke Prison is now fixed and on advanced feature.
-     • Legal Jobs (Janitor, Electrician, Janitor, Cook, Garbageman)
-     • Kitchen 
-     • Illegal Stuffzzz
-     • Drugs (Mud)
-     • Cell Police
-     • Recreational Activities
-- Added Garbage Job
-- Added Cow Job
-- New Check in System using Eye Interaction
-- Call for Help: /callems /callpolice /callbennys /callhayes
+- Added Power Station Robbery
+- Added Black Out function for entire city
+- Added Crafting Requirement Items such as (Stock, Barrel, Receiver, Muzzle, Action, Iron Sight, Screw)
+- Added Marked Bills (dirty money) to Robberies
+- Changed some over exceeded job payouts (to balance the current economy)
