@@ -1,13 +1,26 @@
-- Added Power Station Robbery
-- Added Black Out function for entire city
-- Added Crafting Requirement Items such as (Stock, Barrel, Receiver, Muzzle, Action, Iron Sight, Screw)
-- Added Marked Bills (dirty money) to Robberies
-- Changed some over exceeded job payouts (to balance the current economy)
-- Added new items to Illegal Crafting Table
-- Removed Gun (EMS Bike)
-- Added new icons (Stock, Barrel, Receiver, Muzzle, Action, Iron Sight, Screw)
-- Fixed some native errors
-- Added Police Alert to Chop Shop
-- Added Burgershot & Starbucks to Phone Services
-- Fixed Force revive stucked at black screen
-- Added Custom Car Sound Pack
+- Updated Eye Interaction and added new triggers
+- Added Backpack System (Low, Medium, Reinforced and Large Backpack)
+    - Small Backpack: Slots = 5 | Weight = 80KG;
+    - Medium Backpack: Slots = 8 | Weight = 90KG;
+    - Reinforced Backpack: Slots = 8 | Weight = 100KG;
+    - Big Backpack: Slots = 10 | Weight = 120KG.
+    - Can rob other players backpack.
+    - Added plenty of anti-exploit methods.
+    - When the player has a backpack the script places a prop from a backpack on the player's back.
+- Added Server Synchonized Objects such as:
+    - Cone, Barricade, Road Block, Canopy, Mobile Lighting, Medical Bag, Caution Sign, Generator, Drink Cooler, Spike Strip, Bomb, Folding Chair, 
+      Campfire Kit, Camping Tent, CD Player, Folding Picnic Table, Beach Umbrella, Beach Towel, Boombox, miniradio, monobloc, bbq, foldingtable.
+    - You can cook your fish from fishing job or meat from cow job & hunting job (currently underconstruction)
+- Updated new triggers on our inventory such as loops and checking for optimization
+- Re-added Boombox
+- Added xsound as sound handler
+- Updated Mechanic Job:
+    - Adds new item the "mechboard", this item shows the list of cosmetic changes from the preview menu
+    - Added Item duplicating detection and kicking of players who do it.
+    - Updated Custom plates were causing vehicle damages not to be detected.
+    - Fixed Attempt to fix nos randomly filling after use and stopping of the vehicle.
+    - Updated GetVehicle SetVehicle functions
+    - Fixed normal colors not saving.
+    - Added getClass() function to show Vehicle Class
+- Added Burry Items (stash). You need shovel and Wooden Stash available at the Hardware store.
+     
