@@ -4,3 +4,6 @@
 - new placement system using raycasting, allows precise placement/positioning of objects
 - fixed issue with eye interaction blending netid target options
 - fixed Small Backpack issue (throws an error) when used.
+- fixed Eye interaction with the hunter (hunting job).
+- Added Mining Job
+- Added Police Lightbars (they can customized their own bars)
