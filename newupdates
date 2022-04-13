@@ -1,10 +1,14 @@
-- Fixed Kicking a mechanic when removing a vehicle parts
-- Added Reputation System on Hunting Job
-- Reconfigured Prices on Meat, Leather and Horns ($$$ increased) (prices are running with random math minimum - max)
-- new placement system using raycasting, allows precise placement/positioning of objects
-- fixed issue with eye interaction blending netid target options
-- fixed Small Backpack issue (throws an error) when used.
-- fixed Eye interaction with the hunter (hunting job).
-- Added Mining Job
-- Added Police Lightbars (they can customized their own bars)
-- Can now sit on folding chairs
+- New Inventory System and Redesigned UI.
+  - Help Box
+  - Used & Removed Itembox
+  - Minimalist Design
+  - Effects Options
+  - Weight progress bar
+  - Text overflow ellipsis used (so item titles with never overlap the containers)
+  - Hotkey numbers visible in inventory and hotbar slots
+  - Runs at ~ 0.00 to 0.01 cpu ms (Optimized)
+- Added Taser Cartridge (this is to prevent abuse by spamming. This is also added to police store)
+- Added some snippets to jobs
+- Added CCTV System (runs with ray tracing and eye target, you can install CCTV's to your homes)
+- Updated Eye Interaction (resized and changed to fas fa-eye [font awesome svg])
+- Fixed Eye Accuracy to objects, peds and mp_m/f_freemode.
