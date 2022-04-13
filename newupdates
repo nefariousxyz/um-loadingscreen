@@ -12,3 +12,6 @@
 - Added CCTV System (runs with ray tracing and eye target, you can install CCTV's to your homes)
 - Updated Eye Interaction (resized and changed to fas fa-eye [font awesome svg])
 - Fixed Eye Accuracy to objects, peds and mp_m/f_freemode.
+- Fixed Refueling Accuracy. Can now even refuel a motorcycle using a jerry can
+- Fixed Jerry Can fuel level will decrease when using.
+- Added Dashboard Color using Spraycan. Use spraycan to recolor your dashboard.
