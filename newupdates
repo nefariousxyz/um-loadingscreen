@@ -1,12 +1,10 @@
-- Updated Server Game Build to 2454
-- Added Billiard Game
-- Added Farm Business (/farmmarket)
-- Added Vin Scratch and Car Boosting Contracts
-- Added Function to check for a Vin for Police
-- Added Store Business
-- Added Gasoline Business
-
-[Next Update]
-- Trucking Job
-- Delivery Job
-- Battlepass System (With different seasons every 2 weeks)
+- Added Map Builder dependency
+- Added exports for Gamepass
+- Added throw objects
+- Added Learnable Skill system
+- Reconfiguration of natives
+- Fixed Collisions to Underground Drift Zone
+- Added new bennys interior
+- Added Hacking Device to Crafting
+- Fixed some missing icon images
+- Added Guidebook. Command: /help
