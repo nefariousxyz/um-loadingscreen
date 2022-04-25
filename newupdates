@@ -1,3 +1,4 @@
+- Added Daily Rewards 
 - Added Map Builder dependency
 - Added exports for Gamepass
 - Added throw objects
@@ -8,3 +9,15 @@
 - Added Hacking Device to Crafting
 - Fixed some missing icon images
 - Added Guidebook. Command: /help
+
+Mechanic Updates:
+- NOS Fixes
+- Fixed typo in mechanic script that kicked people who didn't do anything wrong
+- Fixed typo in preview that made Phone do the complete opposite
+- File Layout changes
+- Configuration was revamped
+- Packed crafting + store + payments and stash section
+- reconfigured item checks to help debug missing items
+- reconfigured null wheel ids
+- Separated jobChecks() to make locationChecks()
+- Rewrote the odometer fuctions to be ALOT more optimized and accurate 
