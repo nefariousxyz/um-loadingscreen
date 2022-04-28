@@ -1,23 +1,14 @@
-- Added Daily Rewards 
-- Added Map Builder dependency
-- Added exports for Gamepass
-- Added throw objects
-- Added Learnable Skill system
-- Reconfiguration of natives
-- Fixed Collisions to Underground Drift Zone
-- Added new bennys interior
-- Added Hacking Device to Crafting
-- Fixed some missing icon images
-- Added Guidebook. Command: /help
-
-Mechanic Updates:
-- NOS Fixes
-- Fixed typo in mechanic script that kicked people who didn't do anything wrong
-- Fixed typo in preview that made Phone do the complete opposite
-- File Layout changes
-- Configuration was revamped
-- Packed crafting + store + payments and stash section
-- reconfigured item checks to help debug missing items
-- reconfigured null wheel ids
-- Separated jobChecks() to make locationChecks()
-- Rewrote the odometer fuctions to be ALOT more optimized and accurate 
+- Fixed Phone Services displays for Starbucks & Burgershot
+- Added Apps to Phone (40% done)
+- Updated Garbage Collection Salary
+- Gamepass, Credit Shop & Librarian was moved to City Hall
+- Removed automatic distress to ems. Need to press [E] or /distress
+- Updated Prices to fishing
+- Moved treasure chest & treasure key to diving job
+- Removed Apartments to new players
+- Fixed Starbucks announcement /starbucks [message]
+- Added Taxi Notification on new players
+- Added New Animations SHEEESH
+- Added Darts Game
+- Bulk Selling on Hunting
+- Added New Props (lean bottle, spalding ball, shoe box and etc..)
