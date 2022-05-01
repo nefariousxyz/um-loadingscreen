@@ -1,14 +1,7 @@
-- Fixed Phone Services displays for Starbucks & Burgershot
-- Added Apps to Phone (40% done)
-- Updated Garbage Collection Salary
-- Gamepass, Credit Shop & Librarian was moved to City Hall
-- Removed automatic distress to ems. Need to press [E] or /distress
-- Updated Prices to fishing
-- Moved treasure chest & treasure key to diving job
-- Removed Apartments to new players
-- Fixed Starbucks announcement /starbucks [message]
-- Added Taxi Notification on new players
-- Added New Animations SHEEESH
-- Added Darts Game
-- Bulk Selling on Hunting
-- Added New Props (lean bottle, spalding ball, shoe box and etc..)
+- Fixed Racing System leaderboards. 
+- Increased FPS around public garage
+- Added Horse script for horse riding
+- Updated OxMySQL to v2.3
+- Relocated money wash (much easier location)
+- Added police notification percentage to money wash
+- Added phone notification for the completion of money washing
