@@ -1,8 +1,7 @@
-- Added Tattoo Job
-- Removed unused maps inside the server
-- Added some percentage reduction
-- QoL optimizaions
-- Fixed typo on some of our scripts (many to mention)
-- Attempt at optimizing and improving the speed of the duty check loop
-- Removed zone check on Burgershot job
-- 60% of our script now uses polyzones and better loops to lower idle times
+- Fixed Tattoo Job
+- Fixed Hunting Selling items
+- Removed auto off duty on burgershot and starbucks
+- Adjusted car damage (under testing)
+- Fixed Grilled Cheese (not working)
+- Updated racing script
+- Updated lots of scripts
