@@ -1,6 +1,6 @@
-- Doors are now fixed
-- Corner Drug Selling is now fixed
-- Job Blips such as stash, boss menu and etc.. are now fixed
-- Updated to latest artifact
-- Updated MySQL (oxmysql) handler to the latest version
-- Fixed some of the server errors
+- Updated Artifacts to the latest version
+- Updated some outdated native triggers
+- Re-uploaded old tattoo script (for stability and compatibility)
+- Removed unused scripts
+- Added robbery items to garbage job and fishing
+- Optimized some poor performance scripts
