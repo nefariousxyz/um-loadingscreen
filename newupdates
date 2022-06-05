@@ -1,6 +1,14 @@
-- Updated Artifacts to the latest version
-- Updated some outdated native triggers
-- Re-uploaded old tattoo script (for stability and compatibility)
-- Removed unused scripts
-- Added robbery items to garbage job and fishing
-- Optimized some poor performance scripts
+- Updated Racing Script to its latest version
+- Updated & Fixed Drugs System script
+- Improved function to remove existing interaction points (prevents an error that makes the doors to stop working)
+- Added identifiers as a method to unlock doors
+- Improved Doorlock performance
+- Fixed the issue that could make the door lock load in too much time
+- Gamepass is now fixed and can be accessed through command: /gamepass
+- Fixed Boss Menu (floating text and interaction not showing) all you need to do is to interact with your ON/OFF duty.
+- Added Safezones to Public Garage and Pillbox Hospital
+- Added Speed limits to Safezones
+- Added AFK System (you can check /help for the commands under `newbie guide`)
+- You can now earn EXP from crafting
+- Carry System is now active. F1 > Citizen / Carry
+- Added Boat Gas Stations (Paleto, La Puerta, Terminal, Cayo Perico, Pacific Ocean Area)
