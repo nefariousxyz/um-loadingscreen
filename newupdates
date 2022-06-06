@@ -8,6 +8,7 @@
 - Added AFK System (you can check /help for the commands under `newbie guide`)
 - Added Boat Gas Stations (Paleto, La Puerta, Terminal, Cayo Perico, Pacific Ocean Area)
 - Added Vehicle Turn Indicator (Left, Right and Hazard)
+- Added Female Clothing (Some clothing was replaced since it is necessary)
 
 - Fixed and Updated Pet Script (Pet Obedience, Pet Stamina, Pet Hunger, Pet Houses, Play with your Pet, Carry your Pet, Pet Attacking, Pet Searching)
 - Fixed and Updated Prison Script (Many to mention)
@@ -15,10 +16,21 @@
 - Fixed Gamepass: can be accessed through command: /gamepass
 - Fixed Boss Menu (floating text and interaction not showing) all you need to do is to interact with your ON/OFF duty.
 - Fixed the issue that could make the door lock load in too much time
+- Fixed a glitch for whitelisted jobs.
 
 - Updated Antihack System
 - Updated Racing Script to its latest version
 - Updated & Fixed Drugs System script
+- Updated Discord to Importuners API integration
+- Updated Nissan GT-R Nismo (2017) handling.
+- Updated Chevrolet Camaro SS (2016) audio and handling.
+- Updated Jeep Wrangle Rubicon handling.
+- Removed Porsche Cayenne Turbo liveries.
+- Updated Porsche Cayenne Turbo audio and handling.
+- Updated Chevrolet Camaro SS (1969) handling.
+- Updated Toyota GR Supra Drift handling.
+- Updated R32, R32 (2JZ), and R33 audio.
+- Added New JDM Tires (BBS RS, Spoon Cr93, Grenade GX-01, Enkei ES Tarmac, Hyperlock HL-06S, Enkei Sport RC-T4, Enkei Racing GTC01, Weds Kranze Bazreia, BLITZ BRW Profile 08, and Speedline Corse Challenge).
 
 - You can now earn EXP from crafting
 - Carry System is now active. F1 > Citizen / Carry
