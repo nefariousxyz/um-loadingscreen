@@ -1,14 +1,24 @@
-- Updated Racing Script to its latest version
-- Updated & Fixed Drugs System script
+
 - Improved function to remove existing interaction points (prevents an error that makes the doors to stop working)
-- Added identifiers as a method to unlock doors
 - Improved Doorlock performance
-- Fixed the issue that could make the door lock load in too much time
-- Gamepass is now fixed and can be accessed through command: /gamepass
-- Fixed Boss Menu (floating text and interaction not showing) all you need to do is to interact with your ON/OFF duty.
+
+- Added identifiers as a method to unlock doors
 - Added Safezones to Public Garage and Pillbox Hospital
 - Added Speed limits to Safezones
 - Added AFK System (you can check /help for the commands under `newbie guide`)
+- Added Boat Gas Stations (Paleto, La Puerta, Terminal, Cayo Perico, Pacific Ocean Area)
+- Added Vehicle Turn Indicator (Left, Right and Hazard)
+
+- Fixed and Updated Pet Script (Pet Obedience, Pet Stamina, Pet Hunger, Pet Houses, Play with your Pet, Carry your Pet, Pet Attacking, Pet Searching)
+- Fixed and Updated Prison Script (Many to mention)
+- Fixed and Updated Mechanic Script
+- Fixed Gamepass: can be accessed through command: /gamepass
+- Fixed Boss Menu (floating text and interaction not showing) all you need to do is to interact with your ON/OFF duty.
+- Fixed the issue that could make the door lock load in too much time
+
+- Updated Antihack System
+- Updated Racing Script to its latest version
+- Updated & Fixed Drugs System script
+
 - You can now earn EXP from crafting
 - Carry System is now active. F1 > Citizen / Carry
-- Added Boat Gas Stations (Paleto, La Puerta, Terminal, Cayo Perico, Pacific Ocean Area)
